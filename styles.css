@@ -65,6 +65,9 @@ iframe {
 
 
 /* MORE SPECIFIC CLASSES SELECTORS -specific */
+.header {
+    position: relative;
+}
 .whitePad {
     background-color: whitesmoke;
     color: black;
